@@ -1,4 +1,4 @@
-### CodeBook File for Coursera's "Getting and Cleaning Data"" Course Project - June 2014
+## CodeBook File for Coursera's "Getting and Cleaning Data"" Course Project - June 2014
 ##### This Codebook file corresponds to run_analysis.R and tinydata.txt.
 
 ### Data Sources
@@ -6,11 +6,11 @@ The original data used in the corresponding R code (run_analysis.R) was obtained
 
 Data download address: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectﬁles%2FUCI%20HAR%20Dataset.zip 
 
-###### Complete Data Citation
+##### Complete Data Citation
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
 
 ### Data Description
-The original data from Anuita et al. (2012) reported the results of sensor signals from a smartphone worn by a subject performing various activties.  There were 30 subjects and their measurements were split into six activity categories (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
+The original data from Anguita et al. (2012) reported the results of sensor signals from a smartphone worn by a subject performing various activties.  There were 30 subjects and their measurements were split into six activity categories (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
 
 The tinydata.txt (found on the course project submission page) reports the averages of the mean and standard deviations for all the sensor measurements (referred to as features) by each subject and activity.
 
