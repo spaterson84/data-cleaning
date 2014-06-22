@@ -20,7 +20,7 @@ The tinydata.txt (found on the course project submission page) reports the avera
 
 - The columns identify the activity, subject id, and the features labels.
 
-- The features labels are the same as the in the original data set to allow easy comparison.
+- The features labels are the same as in the original data set to allow easy comparison.
 
 - As in the original dataset, the features are normalized and bounded within [-1,1].
 
